@@ -1,2 +1,2 @@
 visual-git-tools
-Version 2.4
+Version 2.6
