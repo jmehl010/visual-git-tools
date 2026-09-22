@@ -1,2 +1,2 @@
 //checkout function
-print("2 + 2 = 4 Checkout successful")
+print("2 + 2 = 4 Checkout successful, Have a nice day!")
